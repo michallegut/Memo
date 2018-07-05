@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cecad0ce833b06c40a81109cb0f863a2
+timeCreated: 1521016631
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - button: {instanceID: 0}
+  - startSprite: {instanceID: 0}
+  - replaySprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
